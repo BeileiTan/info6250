@@ -1,0 +1,19 @@
+header {
+    background-color: #a27e7e;
+}
+footer{
+    background-color: #faead3;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: #e7cd79;
+    padding: 10px;
+}
+body{
+    background-color: #E3E9E9;
+}

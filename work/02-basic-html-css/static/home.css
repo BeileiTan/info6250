@@ -1,0 +1,10 @@
+.animal-list{
+    padding: 1em;
+    padding-left: 3em;
+    border: dashed #E0AFAA;
+    border-radius: 12px;
+    list-style-type: "\1F431";
+}
+.a1, .a2, .a3{
+    padding: 0.5em;
+}
